@@ -3,7 +3,10 @@ Aulas do Professor Renzo. Módulo Pytools / Criação de Projetos / Gestão de D
 
 Source: www.python.pro.br
 
-///
+[![Updates](https://pyup.io/repos/github/fernandolcouto/libpythonpro/shield.svg)](https://pyup.io/repos/github/fernandolcouto/libpythonpro/)
+
+[![Python 3](https://pyup.io/repos/github/fernandolcouto/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/fernandolcouto/libpythonpro/)
+
 
 Instruções de uso
 
