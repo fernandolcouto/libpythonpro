@@ -4,7 +4,7 @@ import requests
 def buscar_avatar(usuario):
     """
     Busca o avatar de um usuário no GitHub
-    :param usuario: str com o nome do usuário no GitHub 
+    :param usuario: str com o nome do usuário no GitHub
     :param return: str com o link do avatar
     """
 
@@ -15,4 +15,3 @@ def buscar_avatar(usuario):
 
 if __name__ == '__main__':
     print(buscar_avatar('fernandolcouto'))
-    
